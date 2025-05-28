@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales Dashboard – Power BI Project
+# 📊 E-Commerce Perfomance & Sales Dashboard – Power BI Project
 
 ## 📁 Project Overview
 
